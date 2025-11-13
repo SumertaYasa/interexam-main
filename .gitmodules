@@ -1,0 +1,6 @@
+[submodule "apps/frontend"]
+	path = apps/frontend
+	url = https://github.com/SumertaYasa/interexam-frontend.git
+[submodule "apps/backend"]
+	path = apps/backend
+	url = https://github.com/KrishnaWaradana/backend-interexam.git
